@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+
+html,body {
+  height: 100%;
+}
+
+body {
+  background-color: #2B94FF;
+  color: white;
+  padding: 10px;
+  font-family: monospace;
+}
